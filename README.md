@@ -33,7 +33,7 @@ const cb = require('cryptobase')
 
 // Basic Usage:
 cb.codes.BTC
-
+// 'Bitcoin'
 ```
 
 ### `cryptos`
@@ -45,6 +45,10 @@ Returns an object / hashmap of all cryptocurrencies
 const cc = require('cryptobase')
 
 cb.cryptos
+// { 'BTC' => 'Bitcoin', ...}
+
+cb.cryptos['BTC'];
+// 'Bitcoin'
 
 ```
 
