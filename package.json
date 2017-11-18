@@ -1,0 +1,27 @@
+{
+  "name": "cryptobase",
+  "version": "1.0.0",
+  "description": "An updated list of all cryptocurrencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oderayi/cryptobase.git"
+  },
+  "keywords": [
+    "cryptocurrencies",
+    "codes",
+    "symbols",
+    "bitcoin",
+    "cryptocurrency",
+    "api"
+  ],
+  "author": "Steven Oderayi <oderayi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oderayi/cryptobase/issues"
+  },
+  "homepage": "https://github.com/oderayi/cryptobase#readme"
+}
